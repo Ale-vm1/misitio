@@ -1,3 +1,5 @@
+![logo] (logo.)
+
 # Nombre empresa: Saborvivo
  slogan: Del corazón a tu mesa
 
